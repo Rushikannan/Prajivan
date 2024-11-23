@@ -5,7 +5,7 @@ My project involves:
 Collecting animal distress call data (audio files of animals such as elephants, monkeys, and crows etc...)
 Collecting animal image data (image files of animals such as elephants, monkeys, and crows etc...)
 Preprocessing the audio data using techniques like Fourier Transform and Mel-frequency cepstral coefficients (MFCC)
-Classifying the audio data using machine learning algorithms such as Random Forest and Naïve Bayes to detect distress signals and deploy safety alarms for animals in disaster situations.
+Classifying the audio data using machine learning algorithms such as Random Forest and Naïve Bayes to detect distress signals and deploy safety alarms for animals in disaster situations. And, also using CNN for animal image classifications.
 I believe that by integrating machine learning with natural sounds, we can make a meaningful impact on animal conservation and disaster management.
 
 Data Used in the Project 📊
